@@ -1,3 +1,5 @@
+<html>
+<body>
 <body bgcolor="yellow">
     <h1>Welcome to My Website</h1>
  
@@ -12,3 +14,4 @@ We provide high-quality surgical disposables & OT wearables, designed under a st
 Manufacturing and supply of surgical disposable and OT wearable products.
 Excellence in Hygiene Solutions
 </body>
+</html>
